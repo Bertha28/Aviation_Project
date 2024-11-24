@@ -7,10 +7,13 @@ The aim of this project is to provide insights that will improve aircraft operat
 Improving aircraft operations and safety by identifying potentional risks factors in accident data
 
 ## KEY BUSINESS QUESTIONS
-Which aircraft models have a higher accident rate
-What is the frequency of accident rates over time
-Which geographical areas have the highest accident rates
-How do the weather conditions contribute to accident rates
+1. Which aircraft models have a higher accident rate
+
+2. What is the frequency of accident rates over time
+
+3. Which geographical areas have the highest accident rates
+
+4. How do the weather conditions contribute to accident rates
 
 ## OBJECTIVES
 Identify aircarft models with the highest accident rate
